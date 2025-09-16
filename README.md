@@ -1,2 +1,0 @@
-# Newsletter
-MSI update information
