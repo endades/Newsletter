@@ -7,6 +7,15 @@
   </a>
 </div>
 
+<div class="lang-switcher">
+  <a href="/">Español</a> | <a href="/en/">English</a>
+</div>
+
+# Inicio
+
+Bienvenido a la documentación en **Español**.
+
+
 ---
 
 # ¿Para qué sirve un Newsletter de versiones?

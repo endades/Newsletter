@@ -1,3 +1,7 @@
+<div class="lang-switcher">
+  <a href="/">Español</a> | <a href="/en/">English</a>
+</div>
+
 # Newsletter de versiones MSI
 
 Bienvenido al boletín de actualizaciones de **MSI**.  
