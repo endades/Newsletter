@@ -1,70 +1,59 @@
+/* ============================
+   Material MkDocs Custom CSS
+   ============================ */
 
-/* Mantener el color de la sección superior (Documentos y Search docs) */
-.wy-side-nav-search {
-    background-color: #FFFFFF; /* Color original del tema readthedocs */
+/* ----------------------------
+   Fondo y colores del menú lateral
+   ---------------------------- */
+.md-sidebar {
+    background-color: #FFFFFF; /* Fondo del menú lateral */
 }
 
-/* Cambiar el color de fondo de la cinta lateral */
-.wy-nav-side {
-    background-color: #FFFFFF; /* Cambia este valor al color que desees */
+/* Fondo de la barra superior (header) */
+.md-header nav.md-header__inner {
+    background-color: #FFFFFF;
 }
 
-/* Cambiar el color del texto en la cinta lateral */
-.wy-menu-vertical a {
-    color: #000000; /* Cambia este valor al color que desees */
+/* Color de los enlaces del menú lateral */
+.md-nav__link {
+    color: #000000;
 }
 
-/* Cambiar el color de fondo de los elementos activos o al pasar el ratón */
-.wy-menu-vertical a:hover, .wy-menu-vertical li.current a {
-    background-color: #ffffff77; /* Cambia este valor al color que desees */
+/* Hover y activo en el menú lateral */
+.md-nav__link:hover,
+.md-nav__link--active {
+    color: #00c39e;
+    font-weight: bold;
+    background-color: #ffffff77; /* Opcional: fondo al pasar el ratón */
 }
 
-/* Cambiar el color de las letras al pasar el ratón */
-.wy-menu-vertical li.toctree-l1 > a:hover,
-.wy-menu-vertical li.toctree-l2 > a:hover,
-.wy-menu-vertical li.toctree-l3 > a:hover {
-    color: #00c39e; 
-}
-
-
-/* Hacer que el contenido ocupe toda la pantalla */
-.wy-nav-content {
-    max-width: none !important;
+/* ----------------------------
+   Contenido principal
+   ---------------------------- */
+.md-content {
+    max-width: none;
     margin: 0 auto;
     padding: 50px;
 }
 
-
-/* Cambiar el color del botón "Next" en la barra lateral inferior (NO ESTA CAMBIANDO)*/
-.wy-nav-content-wrap {
-    background-color: #FFFFFF !important; /* Cambia el color de fondo */
+/* ----------------------------
+   Footer
+   ---------------------------- */
+.md-footer {
+    display: none; /* Oculta el pie de página */
 }
 
-
-.wy-nav-content-wrap .rst-footer-buttons a {
-    background-color: #0098da !important; /* Cambia el color de fondo */
-    color: #ffffff !important; /* Cambia el color del texto de los enlaces */
+/* Botones "Next / Previous" en el contenido */
+.md-content__inner .md-nav--next a,
+.md-content__inner .md-nav--previous a {
+    background-color: #0098da !important;
+    color: #ffffff !important;
 }
 
-
-
-
-/* Ocultar el pie de página "Built with MkDocs..." */
-.rst-other-versions {
-    display: none;
-}
-
-.injected {
-    display: none;
-}
-
-footer {
-    display: none;
-}
-
-
-  /* Desactiva el clic en el logo (lo hace estático) */
-.wy-side-nav-search > a {
+/* ----------------------------
+   Logo estático en el header
+   ---------------------------- */
+.md-header__title {
     pointer-events: none;
     cursor: default;
     background-image: url("../images/endades2.png");
@@ -75,8 +64,30 @@ footer {
     display: block;
     line-height: 80px;
     color: transparent;
-  }
+}
 
+/* ----------------------------
+   Selector de idioma (arriba derecha)
+   ---------------------------- */
+.lang-switcher {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 14px;
+    background: #eee;
+    padding: 4px 8px;
+    border-radius: 6px;
+    z-index: 1000;
+}
 
-  
-  
+.lang-switcher a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.lang-switcher a.active {
+    color: red;
+    font-weight: bold;
+}

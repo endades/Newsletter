@@ -1,30 +1,34 @@
 site_name: Endades Newsletter
-# site_favicon: img/favicon.ico
+
+plugins:
+  - i18n:
+      default_language: es
+      docs_structure: folder
+      languages:
+        - locale: es
+          name: Español
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
 
 theme:
-  name: readthedocs
-  highlightjs: true
-  # logo: img/endades.png
-  # favicon: images/Time2_16x16.png
-  
+  name: material
+  language: es 
 
-### Change font style ###
 extra_css:
   - stylesheets/custom.css
 
-#extra_javascript:
-#  - assets/javascripts/search-highlight.js
-
-### Hide logos and copy rights ###
 extra:
-  hide:
-    github: true
-    edit_page: true
+  alternate:
+    - name: Español
+      link: /
+      lang: es
+    - name: English
+      link: /en/
+      lang: en
 
-copyright: " "
-
-### Menu navegacion ###
 nav:
-  - Inicio: index.md
-  - Versiones MSI: MSI_Versions.md
-
+  - index.md
+  - MSI_Versions.md
