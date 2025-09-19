@@ -1,14 +1,12 @@
 {% extends "base.html" %}
 
-{% block extrahead %}
-  {{ super() }}
-  <link rel="stylesheet" href="{{ base_url }}/stylesheets/custom.css">
-{% endblock %}
-
-{% block header %}
-  {{ super() }}
-  <div class="lang-switcher">
-    <a href="{{ base_url }}/">Español</a> | 
-    <a href="{{ base_url }}/en/">English</a>
+{% block content %}
+<div class="lang-switcher" id="lang-switcher">
+  <!-- <button id="lang-btn">🌐 Idioma</button> -->
+  <div id="lang-menu" class="lang-menu">
+    <a href="/" class="lang-es">Español</a>
+    <a href="/en/" class="lang-en">English</a>
   </div>
+</div>
+  {{ super() }}
 {% endblock %}

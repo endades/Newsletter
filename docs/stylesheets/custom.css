@@ -77,28 +77,46 @@ footer {
     color: transparent;
   }
 
-/* Botón de cambio de idioma arriba a la derecha */
+
+
+/* Contenedor del selector de idioma */
 .lang-switcher {
-  position: absolute;
-  top: 10px;
+  position: fixed;
+  top: 12px;
   right: 20px;
-  font-size: 14px;
-  background: #eee;
-  padding: 4px 8px;
-  border-radius: 6px;
-  z-index: 1000;
+  z-index: 9999;
 }
 
-.lang-switcher a {
-  margin: 0 5px;
+.lang-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+}
+
+/* Mostrar menú cuando está activo 
+.lang-switcher.active .lang-menu {
+  display: block;
+}
+*/
+
+/* Links del menú 
+.lang-menu a {
+  display: block;
+  padding: 5px 15px;
   text-decoration: none;
   color: #333;
-  font-weight: bold;
 }
 
-.lang-switcher a:hover {
-  text-decoration: underline;
+.lang-menu a:hover {
+  background-color: #f0f0f0;
 }
+*/
 
-  
-  
+/* Evitar que contenido quede tapado 
+main {
+  margin-top: 50px;
+}
+*/
+
+
