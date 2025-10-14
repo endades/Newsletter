@@ -18,6 +18,21 @@ _Sin correcciones destacadas._
 
 ---
 
+## Versión 25.10.0013
+**Fecha de publicación:** 14/10/2025
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
+- **ENBLAU - Exportación a Cortizo Center:** Resuelto problema en exportación de ciertas referencias
+- **enSITE - Mis fichajes:** Desaparece
+- **enSITE - Fichajes:** Pasa a llamarse tiempos
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+_Sin correcciones destacadas._
+
+---
+
 ## Versión 25.10.0003
 **Fecha de publicación:** 03/10/2025
 
