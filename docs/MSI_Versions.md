@@ -5,7 +5,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 ---
 
-## Versión No disponible
+## Próxima versión
 **Fecha de publicación:** No disponible
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
