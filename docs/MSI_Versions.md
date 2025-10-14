@@ -10,11 +10,11 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
-_Sin novedades destacadas._
+
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-_Sin correcciones destacadas._
+- **ENBLAU - Ventas - Gastos generales:** Resuelto problema en el que al aplicar un reparto por importe no estaba obteniendo un reparto correcto.
 
 ---
 
@@ -23,13 +23,12 @@ _Sin correcciones destacadas._
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
-- **ENBLAU - Exportación a Cortizo Center:** Resuelto problema en exportación de ciertas referencias
 - **enSITE - Mis fichajes:** Desaparece
 - **enSITE - Fichajes:** Pasa a llamarse tiempos
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-_Sin correcciones destacadas._
+- **ENBLAU - Exportación a Cortizo Center:** Resuelto problema en exportación de ciertas referencias
 
 ---
 
