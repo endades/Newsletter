@@ -15,6 +15,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **ENBLAU - Ventas - Gastos generales:** Resuelto problema en el que al aplicar un reparto por importe no estaba obteniendo un reparto correcto.
+- **ENBLAU - Ventas - Producción - Desglosar:** Resuelto problema junto a nueva incorporación de API en Logikal.
 
 ---
 
