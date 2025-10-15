@@ -22,6 +22,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 - **ENBLAU - Ventas - Producción - Desglosar:** Resuelto problema junto a nueva incorporación de API en Logikal.
 - **ENBLAU - Ventas - Roturas:** Resuelto problema al comprar materiales desde roturas. Ahora aparece el nombre del color en la descripción del material.
 - **enCLAD - Traducciones:** Resuelto problema con traducciones en italiano.
+- **enCLAD - Clientes - Desbloquear:** Resuelto problema al desbloquear clientes.
 
 ---
 
