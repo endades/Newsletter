@@ -25,6 +25,13 @@ jobs:
       #   run: |
       #     pip install mkdocs mkdocs-material
 
+      
+      - name: Instalar Git y MkDocs
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git
+          pip install mkdocs
+
       - name: Configurar Git
         run: |
           git config --global Endades "github-actions[bot]"
