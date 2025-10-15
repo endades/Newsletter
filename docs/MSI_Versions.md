@@ -1,7 +1,7 @@
 # Newsletter de versiones ENBLAU
 
 Bienvenido al boletín de actualizaciones de **ENBLAU**.  
-Aquí encontrarás las últimas versiones, mejoras y correcciones de errores. TEST
+Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 ---
 

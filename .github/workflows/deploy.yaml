@@ -25,5 +25,10 @@ jobs:
       #   run: |
       #     pip install mkdocs mkdocs-material
 
+      - name: Configurar Git
+        run: |
+          git config --global Endades "github-actions[bot]"
+          git config --global dev@endades.com "github-actions[bot]@users.noreply.github.com"
+
       - name: Generar y desplegar en GitHub Pages
         run: mkdocs gh-deploy --force
