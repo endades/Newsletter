@@ -20,6 +20,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **ENBLAU - Ventas - Gastos generales:** Resuelto problema en el que al aplicar un reparto por importe no estaba obteniendo un reparto correcto.
 - **ENBLAU - Ventas - Producción - Desglosar:** Resuelto problema junto a nueva incorporación de API en Logikal.
+- **ENBLAU - Ventas - Roturas:** Resuelto problema al comprar materiales desde roturas. Ahora aparece el nombre del color en la descripción del material.
 - **enCLAD - Traducciones:** Resuelto problema con traducciones en italiano.
 
 ---
@@ -45,7 +46,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **ENBLAU - Usuarios:** Nuevos campos añadidos. Sexo, fecha de nacimiento y seguridad social
 - **ENBLAU - Almacenes - Inventarios:** Nueva implementación. Ahora es posible realizar inventarios de stock sobre un proyecto
-- **ENBLAU - Almacenes - Almacén para stock:** Ahora es posible indicar cual es nuestro proyecto para stock en el apartado de configración
+- **ENBLAU - Almacenes - Almacén para stock:** Ahora es posible indicar cual es nuestro proyecto para stock en el apartado de configuración
 - **ENBLAU - Compras - Importar bajo mínimo y bajo habitual:** Ahora se contrasta contra el proyecto definido para stock
 - **ENBLAU - Configuración - Proyectos:** Nuevo campo añadido en configuración general para definición de observaciones por defecto de proyectos
 
