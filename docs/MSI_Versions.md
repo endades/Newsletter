@@ -10,6 +10,16 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+- **ENBLAU - Ventas - Informes:** Nuevo informe añadido. Resumen de documentos.
+
+	![MSI](./images/MSI/20251016-1.jpg)
+
+	![MSI](./images/MSI/20251016-2.jpg)
+
+	![MSI](./images/MSI/20251016-3.jpg)
+
+ 	![MSI](./images/MSI/20251016-4.jpg)
+ 
 - **ENBLAU - Ventas - Fecha de entrega prevista:** Añadido nuevo campo de tipo fecha en presupuestos y pedidos de cliente.
 
 	![MSI](./images/MSI/20251510-01.jpg)
