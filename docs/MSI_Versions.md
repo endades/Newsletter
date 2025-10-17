@@ -10,6 +10,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
+## Versión 25.10.0017
+**Fecha de publicación:** No disponible
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
 - **ENBLAU - Ventas - Informes:** Nuevo informe añadido. Resumen de documentos.
 
 	![MSI](./images/MSI/20251016-1.jpg)
