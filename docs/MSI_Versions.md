@@ -19,7 +19,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 ---
 
 ## Versión 25.10.0017
-**Fecha de publicación:** No disponible
+**Fecha de publicación:** 20/10/2025
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
