@@ -9,7 +9,7 @@
 
 ---
 
-# ¿Para qué sirve un Newsletter de versiones? TEST
+# ¿Para qué sirve un Newsletter de versiones?
 
 El Newsletter de versiones tiene como objetivo **informar a usuarios y técnicos** sobre las mejoras, correcciones y novedades que se incorporan en cada actualización del software.
 
