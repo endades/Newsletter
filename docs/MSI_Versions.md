@@ -15,6 +15,8 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **ENBLAU - Instalaciones - Listado de instalaciones:** Resuelto problema con columna 'Planificado'. Estaba apuntando a tablas antiguas.
+- **ENBLAU - Instalaciones - Planificador de instalaciones:** Resuelto problema en duplicidad de claves con múltiples usuarios.
+- **ENBLAU - Ventas - Stock necesario:** Modificado nombre erróneo de columna.
 
 ---
 
