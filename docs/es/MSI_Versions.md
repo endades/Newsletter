@@ -27,19 +27,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **ENBLAU - Ventas - Informes:** Nuevo informe añadido. Resumen de documentos.
 
-	![MSI](./images/MSI/20251016-1.jpg)
+	![MSI](../images/MSI/20251016-1.jpg)
 
-	![MSI](./images/MSI/20251016-2.jpg)
+	![MSI](../images/MSI/20251016-2.jpg)
 
-	![MSI](./images/MSI/20251016-3.jpg)
+	![MSI](../images/MSI/20251016-3.jpg)
 
- 	![MSI](./images/MSI/20251016-4.jpg)
+ 	![MSI](../images/MSI/20251016-4.jpg)
  
 - **ENBLAU - Ventas - Fecha de entrega prevista:** Añadido nuevo campo de tipo fecha en presupuestos y pedidos de cliente.
 
-	![MSI](./images/MSI/20251510-01.jpg)
+	![MSI](../images/MSI/20251510-01.jpg)
 
-	![MSI](./images/MSI/20251510-02.jpg)
+	![MSI](../images/MSI/20251510-02.jpg)
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 

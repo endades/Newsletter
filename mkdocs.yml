@@ -1,6 +1,38 @@
 site_name: Endades Newsletter
 # site_favicon: img/favicon.ico
 
+plugins:
+  - search
+  - i18n:
+      default_language: es
+      docs_structure: folder
+      languages:
+        - locale: es
+          name: Español
+          default: true
+          build: true
+          nav:
+            - Inicio: index.md
+            - Versiones MSI: MSI_Versions.md
+        - locale: en
+          name: English
+          build: true
+          nav:
+            - Home: index.md
+            - MSI Versions: MSI_Versions.md
+        - locale: it
+          name: Italiano
+          build: true
+          nav:
+            - Home: index.md
+            - Versioni MSI: MSI_Versions.md
+        - locale: pt
+          name: Português
+          build: true
+          nav:
+            - Home: index.md
+            - Verções MSI: MSI_Versions.md
+
 theme:
   name: readthedocs
   highlightjs: true
@@ -22,9 +54,4 @@ extra:
     edit_page: true
 
 copyright: " "
-
-### Menu navegacion ###
-nav:
-  - Inicio: index.md
-  - Versiones MSI: MSI_Versions.md
 
