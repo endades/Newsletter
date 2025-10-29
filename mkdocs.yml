@@ -24,20 +24,19 @@ plugins:
           name: Italiano
           build: true
           nav:
-            - Home: index.md
+            - Inizio: index.md
             - Versioni MSI: MSI_Versions.md
         - locale: pt
           name: Português
           build: true
           nav:
-            - Home: index.md
+            - Inicio: index.md
             - Verções MSI: MSI_Versions.md
 
 theme:
   name: readthedocs
   highlightjs: true
-  # logo: img/endades.png
-  # favicon: images/Time2_16x16.png
+  custom_dir: overrides
   
 
 ### Change font style ###
