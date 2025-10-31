@@ -10,6 +10,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
+## Versión 25.10.0030
+**Fecha de publicación:** 03/11/2025
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
 - **ENBLAU - Ventas - Logikal:** Implementados 3 modos de trabajar con Logikal. Por proyectos, por fases y por fases duplicando posiciones.
 - **ENBLAU - Ventas - Listado de ventas:** Añadida nueva columna de 'Fecha de confirmado'.
 
