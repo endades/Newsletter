@@ -31,6 +31,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 - **ENBLAU - Instalaciones - Listado de instalaciones:** Resuelto problema con columna 'Planificado'. Estaba apuntando a tablas antiguas.
 - **ENBLAU - Instalaciones - Planificador de instalaciones:** Resuelto problema en duplicidad de claves con múltiples usuarios.
 - **ENBLAU - Ventas - Stock necesario:** Modificado nombre erróneo de columna.
+- **ENBLAU - Ventas - Facturación de pedidos:** Resuelto problema en facturas por porcentaje, conteniendo posiciones en pedidos con importe negativo y unidades 0.
 
 ---
 
