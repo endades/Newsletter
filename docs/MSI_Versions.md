@@ -14,7 +14,8 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-
+- **ENBLAU - Almacenes - Exportar retales:** Resuelto problema de exportación a Excel en referencias antiguas almacenadas.
+- **ENBLAU - Instalaciones - Creación de previsiones:** Resuelto problema de duplicidad en solicitud de información.
 
 ---
 
