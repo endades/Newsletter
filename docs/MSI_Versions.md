@@ -14,6 +14,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
+
+
+---
+
+## Versión 25.11.0007
+**Fecha de publicación:** No disponible
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
 - **ENBLAU - Almacenes - Exportar retales:** Resuelto problema de exportación a Excel en referencias antiguas almacenadas.
 - **ENBLAU - Instalaciones - Creación de previsiones:** Resuelto problema de duplicidad en solicitud de información.
 - **ENBLAU - Instalaciones - Cierres inesperados ENBLAU:** Resuelto cierre inesperado desde el calendario de instalaciones.
