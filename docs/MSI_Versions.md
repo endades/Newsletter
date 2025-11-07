@@ -17,6 +17,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 - **ENBLAU - Almacenes - Exportar retales:** Resuelto problema de exportación a Excel en referencias antiguas almacenadas.
 - **ENBLAU - Instalaciones - Creación de previsiones:** Resuelto problema de duplicidad en solicitud de información.
 - **ENBLAU - Instalaciones - Cierres inesperados ENBLAU:** Resuelto cierre inesperado desde el calendario de instalaciones.
+- **ENBLAU - Almacenes - Inventarios:** Resuelto problema al descontar juntas desde inventarios.
 
 ---
 
