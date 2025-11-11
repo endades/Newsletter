@@ -10,6 +10,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
+## Versión 25.11.0011
+**Fecha de publicación:** No disponible
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
 - **ENBLAU - Ventas - Factura proforma:** Nuevo tipo de documento añadido. Ahora es posible la creación de facturas proforma. 
     Las facturas proforma pueden ser convertidas a facturas legales, pasando a obtener la fecha actual de la conversión y una numeración válida.
 
