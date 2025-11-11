@@ -10,7 +10,16 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+- **ENBLAU - Ventas - Factura proforma:** Nuevo tipo de documento añadido. Ahora es posible la creación de facturas proforma. 
+    Las facturas proforma pueden ser convertidas a facturas legales, pasando a obtener la fecha actual de la conversión y una numeración válida.
 
+	![MSI](./images/MSI/20251110-0.jpg)
+	![MSI](./images/MSI/20251110-1.jpg)
+	![MSI](./images/MSI/20251110-2.jpg)
+	![MSI](./images/MSI/20251110-3.jpg)
+	![MSI](./images/MSI/20251110-4.jpg)
+
+- **ENBLAU - Ventas - Listado de ventas:** Nuevas columnas añadidas. Factura enviada, fecha factura enviada, factura anulada y proforma.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
@@ -19,7 +28,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 ---
 
 ## Versión 25.11.0007
-**Fecha de publicación:** No disponible
+**Fecha de publicación:** 11/11/2025
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
