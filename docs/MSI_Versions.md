@@ -18,6 +18,43 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 ---
 
+## Versión 25.11.0014
+**Fecha de publicación:** No disponible
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
+- **ENBLAU - Montajes - Comentarios: Ahora es posible añadir comentarios de montaje visibles desde ENBLAU WEB para montadores. 
+
+	![MSI](./images/MSI/20251113-0.jpg)
+	![MSI](./images/MSI/20251113-1.jpg)
+	![MSI](./images/MSI/20251113-2.jpg)
+
+- **ENBLAU - Montajes - Comentarios: Ahora es posible añadir comentarios de montaje visibles desde ENBLAU para montadores. 
+
+	![MSI](./images/MSI/20251114-3.jpg)
+
+- **ENBLAU - Montajes - Listado: Incluida visualización y edición de comentarios de montaje.
+
+	![MSI](./images/MSI/20251114-2.jpg)
+
+- **ENBLAU - Montajes - Listado: Incluida visualización y edición de instalaciones planificadas. 
+
+	![MSI](./images/MSI/20251114-1.jpg)
+
+- **ENBLAU - Montajes - Comentarios: Ahora es posible añadir comentarios de montaje visibles desde el planificador de instalaciones. 
+
+	![MSI](./images/MSI/20251114-0.jpg)
+
+- **ENBLAU - Logikal - Modos de trabajo: Ahora es posible trabajar de 3 modos diferentes durante el proceso de edición de proyectos y posiciones de Logikal. 
+
+	![MSI](./images/MSI/20251114-4.jpg)
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
 ## Versión 25.11.0011
 **Fecha de publicación:** No disponible
 
