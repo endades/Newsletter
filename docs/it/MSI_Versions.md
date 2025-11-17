@@ -14,9 +14,45 @@ Qui troverai le ultime versioni, i miglioramenti e le correzioni di errori.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correzioni</span>
 
-- **ENBLAU - Installazioni - Elenco installazioni:** Risolto problema con la colonna 'Pianificato'. Puntava a tabelle obsolete.
-- **ENBLAU - Installazioni - Pianificatore installazioni:** Risolto problema di duplicazione chiavi con più utenti.
-- **ENBLAU - Vendite - Stock necessario:** Modificato nome colonna errato.
+- **ENBLAU - Vendite - Rapporto preventivi accettati: Modificato il valore cumulativo per visualizzare il totale annuale fino alla data di fine indicata durante la presentazione del rapporto.
+
+	![MSI](../images/MSI/20251117-0.jpg)
+	![MSI](../images/MSI/20251117-1.jpg)
+
+---
+
+## Versione 25.11.0014
+**Data di pubblicazione:** Non disponibile
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novità</span>
+
+- **ENBLAU - Montaggi - Commenti: Ora è possibile aggiungere commenti di montaggio visibili da ENBLAU WEB per i montatori.
+
+	![MSI](../images/MSI/20251113-0.jpg)
+	![MSI](../images/MSI/20251113-1.jpg)
+	![MSI](../images/MSI/20251113-2.jpg)
+
+- **ENBLAU - Montaggi - Commenti: Ora è possibile aggiungere commenti di montaggio visibili da ENBLAU per i montatori.
+
+	![MSI](../images/MSI/20251114-3.jpg)
+
+- **ENBLAU - Montaggi - Elenco: Inclusa visualizzazione e modifica dei commenti di montaggio.
+
+	![MSI](../images/MSI/20251114-2.jpg)
+
+- **ENBLAU - Montaggi - Elenco: Inclusa visualizzazione e modifica delle installazioni pianificate.
+
+	![MSI](../images/MSI/20251114-1.jpg)
+
+- **ENBLAU - Montaggi - Commenti: Ora è possibile aggiungere commenti di montaggio visibili dal pianificatore delle installazioni.
+
+	![MSI](../images/MSI/20251114-0.jpg)
+
+- **ENBLAU - Logikal - Modalità di lavoro: Ora è possibile lavorare in 3 modalità diverse durante il processo di modifica dei progetti e delle posizioni in Logikal.
+
+	![MSI](../images/MSI/20251114-4.jpg)
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correzioni</span>
 
 ---
 

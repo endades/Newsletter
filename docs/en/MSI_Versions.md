@@ -5,18 +5,54 @@ Here you will find the latest versions, improvements, and bug fixes.
 
 ---
 
-## Next Version
-**Release Date:** Not available
+## Next version
+**Release date:** Not available
 
-<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">New Features</span>
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">What's New</span>
 
 
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Fixes</span>
 
-- **ENBLAU - Installations - Installation List:** Fixed issue with 'Planned' column. It was pointing to old tables.
-- **ENBLAU - Installations - Installation Scheduler:** Fixed issue with key duplication with multiple users.
-- **ENBLAU - Sales - Required Stock:** Fixed incorrect column name.
+- **ENBLAU - Sales - Accepted estimates report: Modified the cumulative value to display the annual cumulative amount up to the indicated end date when presenting the report.
+
+	![MSI](../images/MSI/20251117-0.jpg)
+	![MSI](../images/MSI/20251117-1.jpg)
+
+---
+
+## Version 25.11.0014
+**Release date:** Not available
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">What's New</span>
+
+- **ENBLAU - Assemblies - Comments: It is now possible to add assembly comments visible from ENBLAU WEB for installers.
+
+	![MSI](../images/MSI/20251113-0.jpg)
+	![MSI](../images/MSI/20251113-1.jpg)
+	![MSI](../images/MSI/20251113-2.jpg)
+
+- **ENBLAU - Assemblies - Comments: It is now possible to add assembly comments visible from ENBLAU for installers.
+
+	![MSI](../images/MSI/20251114-3.jpg)
+
+- **ENBLAU - Assemblies - List: Viewing and editing of assembly comments included.
+
+	![MSI](../images/MSI/20251114-2.jpg)
+
+- **ENBLAU - Assemblies - List: Viewing and editing of planned installations included.
+
+	![MSI](../images/MSI/20251114-1.jpg)
+
+- **ENBLAU - Assemblies - Comments: It is now possible to add assembly comments visible from the installation scheduler.
+
+	![MSI](../images/MSI/20251114-0.jpg)
+
+- **ENBLAU - Logikal - Working modes: It is now possible to work in 3 different modes during the edit process of Logikal projects and positions.
+
+	![MSI](../images/MSI/20251114-4.jpg)
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Fixes</span>
 
 ---
 

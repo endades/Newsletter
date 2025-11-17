@@ -5,8 +5,8 @@ Aqui encontrarás as últimas versões, melhorias e correções de erros.
 
 ---
 
-## Próxima Versão
-**Data de publicação:** Indisponível
+## Próxima versão
+**Data de lançamento:** Não disponível
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novidades</span>
 
@@ -14,9 +14,45 @@ Aqui encontrarás as últimas versões, melhorias e correções de erros.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correções</span>
 
-- **ENBLAU - Instalações - Listagem de instalações:** Resolvido problema com a coluna 'Planificado'. Estava apontando para tabelas antigas.
-- **ENBLAU - Instalações - Planeador de instalações:** Resolvido problema de duplicidade de chaves com múltiplos utilizadores.
-- **ENBLAU - Vendas - Stock necessário:** Modificado nome incorreto de coluna.
+- **ENBLAU - Vendas - Relatório de orçamentos aceitos: Modificado o acumulado para exibir o total anual até a data final indicada ao apresentar o relatório.
+
+	![MSI](../images/MSI/20251117-0.jpg)
+	![MSI](../images/MSI/20251117-1.jpg)
+
+---
+
+## Versão 25.11.0014
+**Data de lançamento:** Não disponível
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novidades</span>
+
+- **ENBLAU - Montagens - Comentários: Agora é possível adicionar comentários de montagem visíveis no ENBLAU WEB para montadores.
+
+	![MSI](../images/MSI/20251113-0.jpg)
+	![MSI](../images/MSI/20251113-1.jpg)
+	![MSI](../images/MSI/20251113-2.jpg)
+
+- **ENBLAU - Montagens - Comentários: Agora é possível adicionar comentários de montagem visíveis no ENBLAU para montadores.
+
+	![MSI](../images/MSI/20251114-3.jpg)
+
+- **ENBLAU - Montagens - Listagem: Incluída visualização e edição de comentários de montagem.
+
+	![MSI](../images/MSI/20251114-2.jpg)
+
+- **ENBLAU - Montagens - Listagem: Incluída visualização e edição de instalações planejadas.
+
+	![MSI](../images/MSI/20251114-1.jpg)
+
+- **ENBLAU - Montagens - Comentários: Agora é possível adicionar comentários de montagem visíveis a partir do planejador de instalações.
+
+	![MSI](../images/MSI/20251114-0.jpg)
+
+- **ENBLAU - Logikal - Modos de trabalho: Agora é possível trabalhar em 3 modos diferentes durante o processo de edição de projetos e posições do Logikal.
+
+	![MSI](../images/MSI/20251114-4.jpg)
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correções</span>
 
 ---
 
