@@ -14,6 +14,10 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
+- **ENBLAU - Ventas - Infomre presupuestos aceptados: Modificado el acumulado para visualizar el acumulado anual hasta la fecha de fin indicada al presentar el informe.
+
+	![MSI](./images/MSI/20251117-0.jpg)
+	![MSI](./images/MSI/20251117-1.jpg)
 
 
 ---
