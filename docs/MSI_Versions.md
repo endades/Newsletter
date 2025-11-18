@@ -10,19 +10,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
-- **ENBLAU - Ventas - Informe presupuestos aceptados: Modificado el acumulado para visualizar el acumulado anual hasta la fecha de fin indicada al presentar el informe.
+- **ENBLAU - Ventas - Informe presupuestos aceptados:** Modificado el acumulado para visualizar el acumulado anual hasta la fecha de fin indicada al presentar el informe.
 
 	![MSI](./images/MSI/20251117-0.jpg)
 	![MSI](./images/MSI/20251117-1.jpg)
 
-- **ENBLAU - Ventas - Verifactu: Implementada validación de factura previo al envío de la misma.
+- **ENBLAU - Ventas - Verifactu:** Implementada validación de factura previo al envío de la misma.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-- **ENBLAU - Ventas - Nueva fase de medición: Mejorado proceso de creación.
-- **ENBLAU - Ventas - Nueva fase de producción: Mejorado proceso de creación.
-- **ENBLAU - Ventas - Nuevo albarán: Mejorado proceso de creación.
-- **ENBLAU - Ventas - Nueva factura: Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nueva fase de medición:** Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nueva fase de producción:** Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nuevo albarán:** Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nueva factura:** Mejorado proceso de creación.
 
 ---
 
@@ -31,17 +31,17 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
-- **ENBLAU - Montajes - Comentarios: Ahora es posible añadir comentarios de montaje visibles desde ENBLAU WEB para montadores. 
+- **ENBLAU - Montajes - Comentarios:** Ahora es posible añadir comentarios de montaje visibles desde ENBLAU WEB para montadores. 
 
 	![MSI](./images/MSI/20251113-0.jpg)
 	![MSI](./images/MSI/20251113-1.jpg)
 	![MSI](./images/MSI/20251113-2.jpg)
 
-- **ENBLAU - Montajes - Comentarios: Ahora es posible añadir comentarios de montaje visibles desde ENBLAU para montadores. 
+- **ENBLAU - Montajes - Comentarios:** Ahora es posible añadir comentarios de montaje visibles desde ENBLAU para montadores. 
 
 	![MSI](./images/MSI/20251114-3.jpg)
 
-- **ENBLAU - Montajes - Listado: Incluida visualización y edición de comentarios de montaje.
+- **ENBLAU - Montajes - Listado:** Incluida visualización y edición de comentarios de montaje.
 
 	![MSI](./images/MSI/20251114-2.jpg)
 
@@ -49,11 +49,11 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 	![MSI](./images/MSI/20251114-1.jpg)
 
-- **ENBLAU - Montajes - Comentarios: Ahora es posible añadir comentarios de montaje visibles desde el planificador de instalaciones. 
+- **ENBLAU - Montajes - Comentarios:** Ahora es posible añadir comentarios de montaje visibles desde el planificador de instalaciones. 
 
 	![MSI](./images/MSI/20251114-0.jpg)
 
-- **ENBLAU - Logikal - Modos de trabajo: Ahora es posible trabajar de 3 modos diferentes durante el proceso de edición de proyectos y posiciones de Logikal. 
+- **ENBLAU - Logikal - Modos de trabajo:** Ahora es posible trabajar de 3 modos diferentes durante el proceso de edición de proyectos y posiciones de Logikal. 
 
 	![MSI](./images/MSI/20251114-4.jpg)
 
