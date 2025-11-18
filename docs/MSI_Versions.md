@@ -10,15 +10,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
-- **ENBLAU - Ventas - Verifactu: Implementada validación de factura previo al envío de la misma.
-
-
-<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
-
-- **ENBLAU - Ventas - Infomre presupuestos aceptados: Modificado el acumulado para visualizar el acumulado anual hasta la fecha de fin indicada al presentar el informe.
+- **ENBLAU - Ventas - Informe presupuestos aceptados: Modificado el acumulado para visualizar el acumulado anual hasta la fecha de fin indicada al presentar el informe.
 
 	![MSI](./images/MSI/20251117-0.jpg)
 	![MSI](./images/MSI/20251117-1.jpg)
+
+- **ENBLAU - Ventas - Verifactu: Implementada validación de factura previo al envío de la misma.
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+- **ENBLAU - Ventas - Nueva fase de medición: Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nueva fase de producción: Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nuevo albarán: Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nueva factura: Mejorado proceso de creación.
 
 ---
 
