@@ -10,6 +10,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+- **ENBLAU - Ventas - Verifactu: Implementada validación de factura previo al envío de la misma.
 
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
@@ -18,7 +19,6 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 	![MSI](./images/MSI/20251117-0.jpg)
 	![MSI](./images/MSI/20251117-1.jpg)
-
 
 ---
 
