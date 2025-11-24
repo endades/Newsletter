@@ -10,26 +10,25 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
+## Versión 25.11.0014
+**Fecha de publicación:** 24/11/2025
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
 - **ENBLAU - Ventas - Informe presupuestos aceptados:** Modificado el acumulado para visualizar el acumulado anual hasta la fecha de fin indicada al presentar el informe.
 
 	![MSI](./images/MSI/20251117-0.jpg)
 	![MSI](./images/MSI/20251117-1.jpg)
 
 - **ENBLAU - Ventas - Verifactu:** Implementada validación de factura previo al envío de la misma.
-
-<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
-
-- **ENBLAU - Ventas - Nueva fase de medición:** Mejorado proceso de creación.
-- **ENBLAU - Ventas - Nueva fase de producción:** Mejorado proceso de creación.
-- **ENBLAU - Ventas - Nuevo albarán:** Mejorado proceso de creación.
-- **ENBLAU - Ventas - Nueva factura:** Mejorado proceso de creación.
-
----
-
-## Versión 25.11.0014
-**Fecha de publicación:** No disponible
-
-<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
 - **ENBLAU - Montajes - Comentarios:** Ahora es posible añadir comentarios de montaje visibles desde ENBLAU WEB para montadores. 
 
@@ -59,12 +58,15 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-
+- **ENBLAU - Ventas - Nueva fase de medición:** Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nueva fase de producción:** Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nuevo albarán:** Mejorado proceso de creación.
+- **ENBLAU - Ventas - Nueva factura:** Mejorado proceso de creación.
 
 ---
 
 ## Versión 25.11.0011
-**Fecha de publicación:** No disponible
+**Fecha de publicación:** 11/11/2025
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
@@ -86,7 +88,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 ---
 
 ## Versión 25.11.0007
-**Fecha de publicación:** 11/11/2025
+**Fecha de publicación:** 07/11/2025
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
