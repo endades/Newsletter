@@ -15,6 +15,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **ENBLAU - Ventas - Pedido de cliente:** Resuelto el problema al clicar sobre el botón de vaciar fecha.
+- **ENBLAU - Fases de producción - Modo Logikal duplicando posiciones:** Resuelto problema al cambiar nombre y unidades.
 
 ---
 
