@@ -10,6 +10,8 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+- **ENBLAU - Almacenes - Stock:** Añadida columna de tipo de cálculo.
+- **ENBLAU - Almacenes - Movimientos:** Añadida columna de tipo de cálculo.
 
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
