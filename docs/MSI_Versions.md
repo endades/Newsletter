@@ -12,7 +12,9 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **ENBLAU - Almacenes - Stock:** Añadida columna de tipo de cálculo.
 - **ENBLAU - Almacenes - Movimientos:** Añadida columna de tipo de cálculo.
+- **ENBLAU - Almacenes - Movimientos:** Posibilidad de filtrado adicional en consulta de movimientos para optimización de rendimiento.
 
+	![MSI](./images/MSI/20251203-0.jpg)
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
