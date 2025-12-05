@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\docs\\images"
+    "\\docs\\images",
+    "\\docs\\images\\MSI"
   ],
+  "SelectedNode": "\\docs\\images\\MSI",
   "PreviewInSolutionExplorer": false
 }
