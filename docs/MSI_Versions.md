@@ -14,7 +14,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-
+- **ENBLAU - Almacenes - Movimientos:** Modificado el filtro de fecha final para que se tengan en cuenta todos los movimientos hasta las 23:59:59.9999...
 
 ---
 
