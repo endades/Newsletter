@@ -10,11 +10,14 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+- **ENBLAU - SETUP:** Nuevo instalador automatizado para facilitar la instalación y actualización de ENBLAU y sus módulos asociados.
 
+	![MSI](./images/MSI/20251212-01.jpg)
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **ENBLAU - Almacenes - Movimientos:** Modificado el filtro de fecha final para que se tengan en cuenta todos los movimientos hasta las 23:59:59.9999...
+- **ENBLAU - Instalaciones - Nuevos informes:** Corregido problema de visualización al crear o eliminar un nuevo informe personalizado
 
 ---
 
