@@ -17,7 +17,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 - **ENBLAU - Tarifas:** Ahora es posible otorgar un importe fijo a escandallos desde tarifa. 
 El importe desglosado de materiales continuará calculándose, pero el importe del escandallo no se tendrá el porque corresponder con la suma total de los materiales estimada para ventas.
 
-- **ENBLAU - SETUP:** Ahora se pueden convertir escandallos en materiales como producto terminado desde el puesto de transformación. En este caso los escandallos no se podrán ubicar como producto terminado distinto de material.
+- **ENBLAU - Escandallos - Transformación de producto:** Ahora se pueden convertir escandallos en materiales como producto terminado desde el puesto de transformación. En este caso los escandallos no se podrán ubicar como producto terminado distinto de material.
 
 	![MSI](./images/MSI/20251226-0.jpg)
 	![MSI](./images/MSI/20251226-1.jpg)
