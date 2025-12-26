@@ -14,10 +14,20 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 	![MSI](./images/MSI/20251212-01.jpg)
 
+- **ENBLAU - Tarifas:** Ahora es posible otorgar un importe fijo a escandallos desde tarifa. 
+El importe desglosado de materiales continuará calculándose, pero el importe del escandallo no se tendrá el porque corresponder con la suma total de los materiales estimada para ventas.
+
+- **ENBLAU - SETUP:** Ahora se pueden convertir escandallos en materiales como producto terminado desde el puesto de transformación. En este caso los escandallos no se podrán ubicar como producto terminado distinto de material.
+
+	![MSI](./images/MSI/20251226-0.jpg)
+	![MSI](./images/MSI/20251226-1.jpg)
+	![MSI](./images/MSI/20251226-2.jpg)
+
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **ENBLAU - Almacenes - Movimientos:** Modificado el filtro de fecha final para que se tengan en cuenta todos los movimientos hasta las 23:59:59.9999...
 - **ENBLAU - Instalaciones - Nuevos informes:** Corregido problema de visualización al crear o eliminar un nuevo informe personalizado
+- **ENBLAU - Ventas - Informes - Factura:** Corregida impresión de segunda página en blanco
 
 ---
 
