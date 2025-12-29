@@ -23,6 +23,12 @@ El importe desglosado de materiales continuará calculándose, pero el importe d
 	![MSI](./images/MSI/20251226-1.jpg)
 	![MSI](./images/MSI/20251226-2.jpg)
 
+- **ENBLAU - Almacenes - Rertales de paneles:** Ahora es posible añadir retales de paneles desde stock detallado seleccionando el panel para el cual vamos a añadir el retal.
+
+	![MSI](./images/MSI/20251229-0.jpg)
+	![MSI](./images/MSI/20251229-1.jpg)
+	![MSI](./images/MSI/20251229-2.jpg)
+
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **ENBLAU - Almacenes - Movimientos:** Modificado el filtro de fecha final para que se tengan en cuenta todos los movimientos hasta las 23:59:59.9999...
