@@ -10,6 +10,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
+## Versión 25.12.0030
+**Fecha de publicación:** 07/01/2026
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
 - **ENBLAU - SETUP:** Nuevo instalador automatizado para facilitar la instalación y actualización de ENBLAU y sus módulos asociados.
 
 	![MSI](./images/MSI/20251212-01.jpg)
@@ -34,8 +47,10 @@ El importe desglosado de materiales continuará calculándose, pero el importe d
 - **ENBLAU - Almacenes - Movimientos:** Modificado el filtro de fecha final para que se tengan en cuenta todos los movimientos hasta las 23:59:59.9999...
 - **ENBLAU - Instalaciones - Nuevos informes:** Corregido problema de visualización al crear o eliminar un nuevo informe personalizado
 - **ENBLAU - Ventas - Informes - Factura:** Corregida impresión de segunda página en blanco
-- **ENBLAU - Ventas - Informes - Factura:** Corregido problema de visualización de descripción en facturas de tipo importe no agrupadas.
+- **ENBLAU - Ventas - Informes - Factura:** Corregido problema de visualización de descripción en facturas de tipo importe no agrupadas
 - **ENBLAU - Ventas - Informes:** Corregido problema de visualización en el que aleatoriamente la pantalla de vista previa del informe quedaba detrás de la pantalla actual.
+- **ENBLAU - Almacenes - Movimientos:** Resuelto problema al filtrar por la columna tipo de cálculo
+- **ENBLAU - Almacenes - Stock:** Resuelto problema al filtrar por la columna tipo de cálculo
 
 ---
 
