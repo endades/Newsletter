@@ -34,6 +34,8 @@ El importe desglosado de materiales continuará calculándose, pero el importe d
 - **ENBLAU - Almacenes - Movimientos:** Modificado el filtro de fecha final para que se tengan en cuenta todos los movimientos hasta las 23:59:59.9999...
 - **ENBLAU - Instalaciones - Nuevos informes:** Corregido problema de visualización al crear o eliminar un nuevo informe personalizado
 - **ENBLAU - Ventas - Informes - Factura:** Corregida impresión de segunda página en blanco
+- **ENBLAU - Ventas - Informes - Factura:** Corregido problema de visualización de descripción en facturas de tipo importe no agrupadas.
+- **ENBLAU - Ventas - Informes:** Corregido problema de visualización en el que aleatoriamente la pantalla de vista previa del informe quedaba detrás de la pantalla actual.
 
 ---
 
