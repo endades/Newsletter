@@ -14,7 +14,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-
+- **ENBLAU - Stock - Retales de paneles:** Resuelto problema al visualizar la ventana de introducir retal de paneles en materiales tipo panel.
 
 ---
 
