@@ -17,7 +17,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 - **ENBLAU - Stock - Retales de paneles:** Resuelto problema al visualizar la ventana de introducir retal de paneles en materiales tipo panel.
 - **ENBLAU - Ventas - Ubicaciones de stock:** Resuelto problema en el que no se visualizaban ubicaciones de materiales en stock cuando no disponen de proyecto asignado.
 - **ENBLAU - Instalaciones - Configuración de estados:** Ahora es posible configurar los estados para pedidos de instlación de montadores internos.
-- **ENBLAU - Stock - Producto terminado:** Modificadas las columnas 'Proyecto' y 'Artículo' para pdoer agrupar por ellas en el panel de agrupaje.
+- **ENBLAU - Stock - Producto terminado:** Modificadas las columnas **Proyecto** y **Artículo** para pdoer agrupar por ellas en el panel de agrupaje.
 
 	![MSI](./images/MSI/20260112-0.jpg)
 
