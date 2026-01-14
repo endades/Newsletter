@@ -23,6 +23,11 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **enCONTROL - Puesto de control - Estados de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
 - **enCONTROL - Puesto de control - Clasicaciones de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
+- **ENBLAU - Compras - Pedidos de reposición de stock:** Nueva columna de unidades pendientes de recibir añadida. Ahora para calcular las unidades a pedir se restan las unidades pendientes de recibir + las unidades de stock.
+
+	![MSI](./images/MSI/20260114-0.jpg)
+
+
 ---
 
 ## Versión 25.12.0030
