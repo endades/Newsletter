@@ -21,6 +21,8 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 	![MSI](./images/MSI/20260112-0.jpg)
 
+- **enCONTROL - Puesto de control - Estados de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
+- **enCONTROL - Puesto de control - Clasicaciones de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
 ---
 
 ## Versión 25.12.0030
