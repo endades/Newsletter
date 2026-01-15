@@ -27,6 +27,8 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 	![MSI](./images/MSI/20260114-0.png)
 
+- **ENBLAU - Copiar y pegar:** Se ha moficiado ENBLAU para que al copiar y pegar posiciones en cualquier lugar (Ventas, compras, instalaciones, escandallos, ...) mantenga los datos en el portapapeles sin eliminarlos, permitiendo pegar repetidas ocasiones.
+- **ENBLAU - Escandallos - Copiar y pegar:** Ahora es posible pegar en Excel el listado de materiales del escandallo.
 
 ---
 
