@@ -25,25 +25,25 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
-
-
-<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
-
-- **ENBLAU - Stock - Retales de paneles:** Resuelto problema al visualizar la ventana de introducir retal de paneles en materiales tipo panel.
-- **ENBLAU - Ventas - Ubicaciones de stock:** Resuelto problema en el que no se visualizaban ubicaciones de materiales en stock cuando no disponen de proyecto asignado.
 - **ENBLAU - Instalaciones - Configuración de estados:** Ahora es posible configurar los estados para pedidos de instlación de montadores internos.
-- **ENBLAU - Stock - Producto terminado:** Modificadas las columnas **Proyecto** y **Artículo** para pdoer agrupar por ellas en el panel de agrupaje.
-
-	![MSI](./images/MSI/20260112-0.jpg)
-
-- **enCONTROL - Puesto de control - Estados de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
-- **enCONTROL - Puesto de control - Clasicaciones de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
 - **ENBLAU - Compras - Pedidos de reposición de stock:** Nueva columna de unidades pendientes de recibir añadida. Ahora para calcular las unidades a pedir se restan las unidades de stock y las unidades pendientes de recibir.
 
 	![MSI](./images/MSI/20260114-0.png)
 
+- **ENBLAU - Stock - Producto terminado:** Modificadas las columnas **Proyecto** y **Artículo** para pdoer agrupar por ellas en el panel de agrupaje.
+
+	![MSI](./images/MSI/20260112-0.jpg)
+
 - **ENBLAU - Copiar y pegar:** Se ha moficiado ENBLAU para que al copiar y pegar posiciones en cualquier lugar (Ventas, compras, instalaciones, escandallos, ...) mantenga los datos en el portapapeles sin eliminarlos, permitiendo pegar repetidas ocasiones.
 - **ENBLAU - Escandallos - Copiar y pegar:** Ahora es posible pegar en Excel el listado de materiales del escandallo.
+- 
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+- **ENBLAU - Stock - Retales de paneles:** Resuelto problema al visualizar la ventana de introducir retal de paneles en materiales tipo panel.
+- **ENBLAU - Ventas - Ubicaciones de stock:** Resuelto problema en el que no se visualizaban ubicaciones de materiales en stock cuando no disponen de proyecto asignado.
+- **enCONTROL - Puesto de control - Estados de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
+- **enCONTROL - Puesto de control - Clasicaciones de planificación:** Modificado para que se ordene el listado mostrado en orden alfabético.
+- **ENBLAU - Ventas - Edición de posiciones con Logikal:** Resuelto problema al editar masivamente posiciones en el que no modificaba la lista de posiciones, solo modificaba la primera posición.
 
 ---
 
