@@ -16,6 +16,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **enCONTROL - Puesto de transformación:** Resuelto problema de visualización de información.
+- **ENBLAU - Compras - Reposición de stock:** Resuelto problema en referencia de materiales de Cortizo al exportarse para Cortizo Center.
 
 ---
 
