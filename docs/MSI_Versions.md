@@ -17,6 +17,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **enCONTROL - Puesto de transformación:** Resuelto problema de visualización de información.
 - **ENBLAU - Compras - Reposición de stock:** Resuelto problema en referencia de materiales de Cortizo al exportarse para Cortizo Center.
+- **ENBLAU - Compras - Pedidos de reposición de stock:** Resuelto problema de asignación en unidades a pedir en ciertos materiales.
 
 ---
 
@@ -37,7 +38,8 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **ENBLAU - Copiar y pegar:** Se ha moficiado ENBLAU para que al copiar y pegar posiciones en cualquier lugar (Ventas, compras, instalaciones, escandallos, ...) mantenga los datos en el portapapeles sin eliminarlos, permitiendo pegar repetidas ocasiones.
 - **ENBLAU - Escandallos - Copiar y pegar:** Ahora es posible pegar en Excel el listado de materiales del escandallo.
-- 
+
+
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
 - **ENBLAU - Stock - Retales de paneles:** Resuelto problema al visualizar la ventana de introducir retal de paneles en materiales tipo panel.
