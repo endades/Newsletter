@@ -3,7 +3,6 @@
 Bienvenido al boletín de actualizaciones de **ENBLAU**.  
 Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
-
 ---
 
 ## Próxima versión
@@ -12,6 +11,22 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
 
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
+## Versión 26.01.0029
+**Fecha de publicación:** No disponible
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
+
+- **ENBLAU:** Incluidas mejoras de rendimiento.
+- **enCONTROL:** Incluidas mejoras de rendimiento.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
