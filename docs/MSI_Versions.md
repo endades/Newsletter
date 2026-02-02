@@ -20,7 +20,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 ---
 
 ## Versión 26.01.0029
-**Fecha de publicación:** No disponible
+**Fecha de publicación:** 02/02/2026
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
