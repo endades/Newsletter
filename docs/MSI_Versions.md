@@ -10,6 +10,19 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+
+
+---
+
+## Versión 26.01.0029
+**Fecha de publicación:** No disponible
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
 - **ENBLAU - Configuración - Numeraciones:** Modificado para que no admita numero siguiente como 0.
 - **ENBLAU - Documentos de venta - Material necesario:** Modificado para que en el material de stock disponible para juntas se muestren todas las juntas en sus ubicaciones, indistintamente de que la longitud sea mayor o menor que la longitud necesitada.
 - **ENBLAU - Ventas - Material necesario:** Dividimos en dos columnas la columna material en stock (Stock en almacén y stock en proyecto).
@@ -43,7 +56,6 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 ---
 
-
 ## Versión 26.01.0015
 **Fecha de publicación:** 19/01/2026
 
@@ -60,7 +72,6 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **ENBLAU - Copiar y pegar:** Se ha moficiado ENBLAU para que al copiar y pegar posiciones en cualquier lugar (Ventas, compras, instalaciones, escandallos, ...) mantenga los datos en el portapapeles sin eliminarlos, permitiendo pegar repetidas ocasiones.
 - **ENBLAU - Escandallos - Copiar y pegar:** Ahora es posible pegar en Excel el listado de materiales del escandallo.
-
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
