@@ -10,7 +10,9 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+- **ENBLAU - Desbloquear documentos:** Ahora es posible desbloquear múltiples documentos a un mismo tiempo.
 
+	![MSI](./images/MSI/20260209-0.jpg)
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
