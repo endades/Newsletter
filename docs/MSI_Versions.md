@@ -16,7 +16,9 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-
+- **ENBLAU - Ventas - Nuevo albarán:** Resuelto problema con visualización de descuentos aplicados a las posiciones.
+- **ENBLAU - Ventas - Nueva medición:** Resuelto problema con visualización de descuentos aplicados a las posiciones.
+- **ENBLAU - Ventas - Nueva producción:** Resuelto problema con visualización de descuentos aplicados a las posiciones.
 
 ---
 
