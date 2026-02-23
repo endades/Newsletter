@@ -24,6 +24,7 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 - **enCAD - Recalcular posición:** Resuelto problema de aplicado de descuentos en perfiles generados por regla de barra al recalcular un diseño.
 - **ENBLAU - Material necesario - Asignar proyecto automáticamente:** Resuelto problema al asignar proyecto, donde no se comprobaba el material de todas las ubicaciones y todos lo proyectos.
 - **enSITE - Ubicación de albaranes:** Resuelto problema al disponer de múltiples plantas para ubicar recepciones.
+- **ENBLAU - Licencias:** Implementadas mejoras de rendimiento y resolución de nombres.
 
 ---
 
