@@ -10,11 +10,12 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
-
+- **ENBLAU - Ventas - Facturación de pedidos:** Añadido filtrado por condiciones seleccionadas por el usuario.
+- **ENBLAU - Ventas - Facturación de albaranes:** Añadido filtrado por condiciones seleccionadas por el usuario.
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-
+- **ENBLAU - Ventas - Facturación de pedidos:** Resuelto problema al seleccionar todos los documentos desde el bottón "Seleccionar todo" de la cinta superior.
 
 ---
 
