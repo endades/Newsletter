@@ -12,13 +12,13 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 - **ENBLAU - Ventas - Facturación de pedidos:** Añadido filtrado por condiciones seleccionadas por el usuario.
 - **ENBLAU - Ventas - Facturación de albaranes:** Añadido filtrado por condiciones seleccionadas por el usuario.
-- **ENBLAU - Compras - Desde artículos adicionales:** Resuelto problema en referencia de materiales de Cortizo al exportarse para Cortizo Center Cuando el pedido estaba realizado desde el apartado de material adicional de un documento de venta o desde un proyecto.
-- **ENBLAU - Compras - Desde roturas:** Resuelto problema en referencia de materiales de Cortizo al exportarse para Cortizo Center Cuando el pedido estaba realizado desde el apartado de roturas de un documento de venta o desde un proyecto.
 
 
 <span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
 
-- **ENBLAU - Ventas - Facturación de pedidos:** Resuelto problema al seleccionar todos los documentos desde el bottón "Seleccionar todo" de la cinta superior.
+- **ENBLAU - Ventas - Facturación de pedidos:** Resuelto problema al seleccionar todos los documentos desde el botón "Seleccionar todo" de la cinta superior.
+- **ENBLAU - Compras - Desde artículos adicionales:** Resuelto problema en referencia de materiales de Cortizo al exportarse para Cortizo Center Cuando el pedido estaba realizado desde el apartado de material adicional de un documento de venta o desde un proyecto.
+- **ENBLAU - Compras - Desde roturas:** Resuelto problema en referencia de materiales de Cortizo al exportarse para Cortizo Center Cuando el pedido estaba realizado desde el apartado de roturas de un documento de venta o desde un proyecto.
 
 ---
 
