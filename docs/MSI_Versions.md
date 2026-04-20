@@ -10,6 +10,16 @@ Aquí encontrarás las últimas versiones, mejoras y correcciones de errores.
 
 <span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
 
+
+<span style="font-size:21px; font-weight:bold; color:#C0392B; text-decoration: underline;">Correcciones</span>
+
+---
+
+## Versión 26.03.0002
+**Fecha de publicación:** 15/04/2026
+
+<span style="font-size:21px; font-weight:bold; color:#2E86C1; text-decoration: underline;">Novedades</span>
+
 - **ENBLAU - Ventas - Facturación de pedidos:** Añadido filtrado por condiciones seleccionadas por el usuario.
 - **ENBLAU - Ventas - Facturación de albaranes:** Añadido filtrado por condiciones seleccionadas por el usuario.
 
